@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jdbc:mysql://127.0.0.1:3306/test?useSSL=false&amp;serverTimezone=Asia/Shanghai&amp;characterEncoding=utf-8&amp;autoReconnect=true" uuid="f20a4cac-2e17-4517-8ea9-a7c34eb1cb33">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+    </data-source>
+  </component>
+</project>
